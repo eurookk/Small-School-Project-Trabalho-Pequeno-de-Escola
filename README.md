@@ -4,4 +4,4 @@ I thought that was a really good idea because we both like to play games and the
 We used HTML and CSS, we didn't use any programming language like Javascript or Python because in the class that we are its to learn HTML and CSS the basics
 but me and my friend already know some of Javascript althought he prefers Java.
 
-If anyone wants to help us improve better in future projects just comment here or in my friends repository.
+If anyone wants to help us improve better in future projects contact me and my friend, here is our githubs: https://github.com/eurookk and https://github.com/BenhurVargas
